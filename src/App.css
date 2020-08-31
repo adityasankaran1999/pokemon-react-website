@@ -1,6 +1,4 @@
-.App {
-  text-align: center;
-}
+
 
 .App-logo {
   height: 40vmin;
@@ -35,4 +33,44 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.title {
+  font-size: 60px;
+  font-family: "Tahoma", Geneva, sans-serif;
+  text-align: center;
+}
+
+.description {
+  font-size: 30px;
+  font-family: "Tahoma", Geneva, sans-serif;
+  text-align: center;
+}
+
+span.line1 {
+  display: inline-block;
+  padding: 10px;
+  
+}
+
+span.line2 {
+  display: inline-block;
+  padding: 10px;
+
+}
+
+span.line3 {
+  display: inline-block;
+  padding: 10px;
+
+}
+
+.Water-water {
+    background-color: #1E90FF;
+    color: white;
+    padding: 30px 50px;
+    outline: 0;
+    font-size: 30px;
+    font-family: "Tahoma", Geneva, sans-serif;
+    width: 200px;
 }
