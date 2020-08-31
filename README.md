@@ -1,3 +1,8 @@
+This is a Pokemon Type Matchup Website I created using React. The languages I coded in are CSS, HTML, and JSX. The pokemon types and their matchups are the ones from the video games and the anime. They are not the matchups used in the Pokemon Go mobile app. The comprehensive list of types and matchups are from https://pokemondb.net/. 
+
+Below is a short demo of the website and how the user can view the matchups for each type. 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
